@@ -1,7 +1,7 @@
-url: https://plex.andywebservices.com
-status: down
-code: 401
-responseTime: 465
-lastUpdated: 2021-12-02T03:54:56.807Z
+url: https://plex.andywebservices.com/web/index.html
+status: up
+code: 200
+responseTime: 234
+lastUpdated: 2021-12-02T05:42:47.062Z
 startTime: Thu Dec 02 2021 02:38:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
