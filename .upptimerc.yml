@@ -6,7 +6,7 @@ sites:
   - name: Jitsi
     url: https://jitsi.andywebservices.com
   - name: Plex
-    url: https://plex.andywebservices.com
+    url: https://plex.andywebservices.com/web/index.html
  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
