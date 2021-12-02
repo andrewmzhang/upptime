@@ -15,8 +15,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: AndyWebServices
-  introTitle: "Status"
-  introMessage: Domains under AWS jurisdiction
+  introTitle: "Uptime"
+  #introMessage: 
   navbar:
     - title: Status
       href: /
