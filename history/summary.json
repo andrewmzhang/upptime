@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/jitsi.andywebservices.com",
     "slug": "jitsi",
     "status": "up",
-    "uptime": "99.20%",
+    "uptime": "99.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.20%",
-    "time": 261,
-    "timeDay": 418,
-    "timeWeek": 274,
-    "timeMonth": 285,
-    "timeYear": 261,
+    "uptimeYear": "99.21%",
+    "time": 262,
+    "timeDay": 285,
+    "timeWeek": 294,
+    "timeMonth": 288,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2021-12-03": 33,
       "2021-12-02": 742
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 171,
-    "timeDay": 92,
-    "timeWeek": 172,
-    "timeMonth": 169,
-    "timeYear": 171,
+    "time": 170,
+    "timeDay": 159,
+    "timeWeek": 159,
+    "timeMonth": 167,
+    "timeYear": 170,
     "dailyMinutesDown": {
       "2021-12-02": 184
     }
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 230,
-    "timeWeek": 167,
-    "timeMonth": 184,
+    "timeDay": 188,
+    "timeWeek": 180,
+    "timeMonth": 187,
     "timeYear": 177,
     "dailyMinutesDown": {}
   }
