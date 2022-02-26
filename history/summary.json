@@ -4,10 +4,10 @@
     "url": "https://jitsi.andywebservices.com",
     "icon": "https://favicons.githubusercontent.com/jitsi.andywebservices.com",
     "slug": "jitsi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.37%",
     "time": 259,
@@ -16,6 +16,7 @@
     "timeMonth": 268,
     "timeYear": 259,
     "dailyMinutesDown": {
+      "2022-02-26": 1,
       "2021-12-03": 33,
       "2021-12-02": 742
     }
@@ -45,9 +46,9 @@
     "url": "https://portainer.andywebservices.com/",
     "icon": "https://favicons.githubusercontent.com/portainer.andywebservices.com",
     "slug": "portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,6 +57,8 @@
     "timeWeek": 178,
     "timeMonth": 175,
     "timeYear": 175,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-26": 0
+    }
   }
 ]
