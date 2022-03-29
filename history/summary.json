@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/jitsi.andywebservices.com",
     "slug": "jitsi",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.51%",
     "time": 305,
     "timeDay": 94,
     "timeWeek": 189,
@@ -27,9 +27,9 @@
     "url": "https://plex.andywebservices.com/web/index.html",
     "icon": "https://favicons.githubusercontent.com/plex.andywebservices.com",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -39,6 +39,7 @@
     "timeMonth": 174,
     "timeYear": 174,
     "dailyMinutesDown": {
+      "2022-03-29": 0,
       "2021-12-02": 184
     }
   },
